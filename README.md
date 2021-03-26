@@ -1,6 +1,6 @@
 ## Hi! I'm Andrea! :wave:
 
-IT sudent and full-stack developer based in _Milan, Italy_.
+IT for New Media Communication sudent and full-stack developer based in _Milan, Italy_.
 
 - :dart: Currently i work as a freelance while i study at Università degli Studi di Milano.
 - :heart_eyes: I'm interested in full-stack web development technologies.
