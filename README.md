@@ -12,6 +12,6 @@ Contact me
 
 ***
 
-![Anurag's GitHub stats](https://github-readme-stats-drab-mu.vercel.app/api?username=andreatroccolo&hide=stars&count_private=true&show_icons=true)
-![Top Languages Card](https://github-readme-stats-drab-mu.vercel.app/api/top-langs/?username=andreatroccolo&layout=compact)
+![Anurag's GitHub stats](https://github-readme-stats-drab-mu.vercel.app/api?username=troccoloAndrea&hide=stars&count_private=true&show_icons=true)
+![Top Languages Card](https://github-readme-stats-drab-mu.vercel.app/api/top-langs/?username=troccoloAndrea&layout=compact)
 
