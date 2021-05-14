@@ -4,7 +4,7 @@ IT for New Media Communication sudent and full-stack developer based in _Milan, 
 
 - :dart: Currently i work as a freelance while i study at Università degli Studi di Milano.
 - :heart_eyes: I'm interested in full-stack web development technologies.
-- :heart: C#, ASP.NET Core, Javascript, Node.js and React.js.
+- :heart: C#, ASP.NET Core, Javascript, Node.js and React.js, MERN stack, JAM stack.
 
 Contact me 
 
