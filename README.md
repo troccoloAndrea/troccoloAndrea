@@ -1,10 +1,10 @@
 ## Hi! I'm Andrea! :wave:
 
-IT for New Media Communication sudent and full-stack developer based in _Milan, Italy_.
+IT sudent and front-end developer based in _Milan, Italy_.
 
 - :dart: I am currently studying at Università degli Studi di Milano.
-- :heart_eyes: I'm interested in full-stack web development technologies.
-- :heart: C#, ASP.NET Core, Javascript, Node.js and React.js, MERN stack, JAM stack.
+- :heart_eyes: I'm interested in front-end (and full-stack) web development technologies.
+- :heart: Javascript, React, C#.
 
 Contact me 
 
